@@ -1,0 +1,1 @@
+SELECT * FROM dictionary WHERE word = "rain"

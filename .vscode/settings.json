@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "wordsdb",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "dictionary",
+            "password": "Password10",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "dictionaryuser"
+        }
+    ]
+}
